@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99f5d534-234e-47a3-b13f-697d62caf584" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Four.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Third.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Four.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Third.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Third.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -58,9 +52,23 @@
       <recent name="C:\Users\megha.mannapur\Java\one\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Second">
-    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="First" />
+  <component name="RunManager" selected="Application.Greatest">
+    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Four" />
+      <module name="one" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Greatest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greatest" />
+      <module name="one" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MangoTree" />
       <module name="one" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,9 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Second" />
+        <item itemvalue="Application.Greatest" />
+        <item itemvalue="Application.MangoTree" />
+        <item itemvalue="Application.Four" />
         <item itemvalue="Application.Third" />
-        <item itemvalue="Application.First" />
+        <item itemvalue="Application.Second" />
       </list>
     </recent_temporary>
   </component>

@@ -4,23 +4,17 @@ public class Third {
         int year;
         Scanner s=new Scanner(System.in);
         year=s.nextInt();
-        if(year%4==0){
-            if(year%100==0) {
-                if (year % 400 == 0) {
-                    System.out.println("leap year");
-                } else {
-                    System.out.println("not a leap year");
-                }
+        if(year%4==0 && year%100!=0 || year % 400==0){
 
-            }
-            else{
-                System.out.println("leap year");
-            }
+            System.out.println("leap year");
+        } else {
 
-            }
-        else {
             System.out.println("not a leap year");
         }
+
+
+
+
 
     }
 }
