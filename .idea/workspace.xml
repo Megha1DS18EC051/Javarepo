@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99f5d534-234e-47a3-b13f-697d62caf584" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Greatest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MangoTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Four.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Third.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Third.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MangoTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MangoTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,7 @@
       <recent name="C:\Users\megha.mannapur\Java\one\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Greatest">
+  <component name="RunManager" selected="Application.Loop">
     <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Four" />
       <module name="one" />
@@ -69,15 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MangoTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MangoTree" />
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop" />
       <module name="one" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Second" />
+    <configuration name="MangoTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MangoTree" />
       <module name="one" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Loop" />
         <item itemvalue="Application.Greatest" />
         <item itemvalue="Application.MangoTree" />
         <item itemvalue="Application.Four" />
         <item itemvalue="Application.Third" />
-        <item itemvalue="Application.Second" />
       </list>
     </recent_temporary>
   </component>

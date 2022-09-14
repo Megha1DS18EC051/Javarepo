@@ -9,19 +9,12 @@ public class MangoTree {
         a = s.nextInt();
         b = s.nextInt();
         c = s.nextInt();
-        for (int i = 1; i <= a*b; i++) {
-                if (i== c) {
-                    System.out.println("Yes");
-                }
-                else System.out.println("No");
-
-
-            }
-
+        if (c >= 1 || c <= b) {
 
 
         }
 
     }
+}
 
 
