@@ -6,29 +6,29 @@ public class Collatz {
         int n;
         Scanner s=new Scanner(System.in);
         n=s.nextInt();
-        if(n==1)
+        if(n==1) {
             System.out.println(0);
-        else if(n>0) {
-            for (int i = n; i >=1; i--) {
+
+        }
+        else {
+
+            while (n > 0) {
                 if (n % 2 == 0) {
                     n = n / 2;
                     System.out.println(n);
-                }
-                else{
-
+                } else {
 
                     n = (3 * n) + 1;
                     System.out.println(n);
 
-
-                    }
                 }
-
-
-
-
-
+                if (n == 1) {
+                    System.out.println(n);
+                    break;
+                }
             }
         }
     }
+
+}
 

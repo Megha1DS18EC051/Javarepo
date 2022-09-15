@@ -9,10 +9,12 @@ public class MangoTree {
         a = s.nextInt();
         b = s.nextInt();
         c = s.nextInt();
-        if (c >= 1 || c <= b) {
-
+        if ((c >= 1 && c <= b) ||(c%b==0)||(c%b==1)){
+            System.out.println("Yes");
 
         }
+        else
+            System.out.println("No");
 
     }
 }

@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="99f5d534-234e-47a3-b13f-697d62caf584" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collatz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collatz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MangoTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MangoTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +52,7 @@
       <recent name="C:\Users\megha.mannapur\Java\one\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Collatz">
+  <component name="RunManager" selected="Application.Range">
     <configuration name="Collatz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collatz" />
       <module name="one" />
@@ -58,22 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Four" />
-      <module name="one" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Greatest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greatest" />
-      <module name="one" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop" />
+    <configuration name="MagicSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MagicSquare" />
       <module name="one" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,13 +74,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern" />
+      <module name="one" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Range" />
+      <module name="one" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Range" />
+        <item itemvalue="Application.Pattern" />
+        <item itemvalue="Application.MagicSquare" />
         <item itemvalue="Application.Collatz" />
-        <item itemvalue="Application.Loop" />
-        <item itemvalue="Application.Greatest" />
         <item itemvalue="Application.MangoTree" />
-        <item itemvalue="Application.Four" />
       </list>
     </recent_temporary>
   </component>
