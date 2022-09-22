@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="99f5d534-234e-47a3-b13f-697d62caf584" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collatz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collatz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MangoTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MangoTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Range.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,6 +41,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/megha.mannapur/Java/one&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -52,30 +53,23 @@
       <recent name="C:\Users\megha.mannapur\Java\one\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Range">
-    <configuration name="Collatz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collatz" />
+  <component name="RunManager">
+    <configuration name="Holiday" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TrowsExcep" />
       <module name="one" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MagicSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MagicSquare" />
+    <configuration name="MovieClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MovieClass" />
       <module name="one" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MangoTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MangoTree" />
-      <module name="one" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindrome" />
       <module name="one" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,13 +82,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WrapperExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WrapperExample" />
+      <module name="one" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MovieClass" />
+      <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.Range" />
+      <item itemvalue="Application.Holiday" />
+      <item itemvalue="Application.WrapperExample" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MovieClass" />
+        <item itemvalue="Application.Holiday" />
+        <item itemvalue="Application.WrapperExample" />
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.Range" />
-        <item itemvalue="Application.Pattern" />
-        <item itemvalue="Application.MagicSquare" />
-        <item itemvalue="Application.Collatz" />
-        <item itemvalue="Application.MangoTree" />
       </list>
     </recent_temporary>
   </component>

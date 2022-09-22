@@ -13,11 +13,11 @@ public class Range {
         for (int i = 0; i < n; i++) {
             A[i] = s.nextInt();
         }
-        float range=MaximumNumber(n,A)-MinimumNumber(n,A);
+        int range=MaximumNumber(n,A)-MinimumNumber(n,A);
         System.out.println(range);
     }
-        static float MaximumNumber(int n,int A[]){
-            float max=A[0];
+        static int MaximumNumber(int n,int A[]){
+            int max=A[0];
             for (int i=1;i<n;i++)
             {
                 if(A[i]>max)
@@ -26,8 +26,8 @@ public class Range {
             }return max;
 
     }
-    static float MinimumNumber(int n,int A[]){
-        float min=A[0];
+    static int MinimumNumber(int n,int A[]){
+        int min=A[0];
         for (int i=1;i<n;i++)
         {
             if(A[i]<min)
